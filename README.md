@@ -3,6 +3,6 @@
 
 Fast-NLP is an open source library based on the CasADi tool, to build and in an efficient way Nonlinear Programming.
 
-[![Windows](![download](https://github.com/Lorenzo-maker/FastNLP/assets/66362077/3439a458-f2d7-4490-9b63-c613863ac611)
+[![Windows](![2570212](https://github.com/Lorenzo-maker/FastNLP/assets/66362077/828fe96c-3ccf-4eca-8c6e-5f745666e751)
 )](https://github.com/Lorenzo-maker/FastNLP.git)
 
